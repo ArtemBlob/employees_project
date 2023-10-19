@@ -1,6 +1,6 @@
 # employees_project
 
-# Pet-проект на React
+## Pet-проект на React
 
 Используется готовый шаблон верстки. Выполнена практика по использованию свойств компонентов.
 Добавлен атрибут key для работы алгоритма согласования.
@@ -10,7 +10,7 @@
 Выполнено поднятие состояния и валидация формы.
 Реализованы фильтры и поиск в приложении.
 
-# Pet project in React
+## Pet project in React
 
 A ready-made layout template is used. Practice on using component properties has been completed.
 Added a key attribute for the reconciliation algorithm.
